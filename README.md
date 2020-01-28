@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 ## ScreenShot
-<img src="print.png" height="1000em" width="1000em"/>
+<img src="print.png" height="600em" width="1000em"/>
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
